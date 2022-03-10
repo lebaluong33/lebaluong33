@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Jquery, Reactjs, Nodejs**
 
-- 🌱 I’m currently learning **Malware Injection Technique**
+- 🌱 I’m currently learning **Malware classification base on hashing techniques*
 
 - 👯 I’m looking to collaborate on **Malware Reseach**
 
