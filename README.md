@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lebaluong33" alt="lebaluong33" /></a> </p>
 
-- 🔭 I’m currently working on **Jquery, Reactjs, Nodejs**
+- 🔭 I’m currently working on **Jquery, Reactjs, NextJS, VueJS, NuxtJS, Nodejs**
 
 - 🌱 I’m currently learning **Malware classification base on hashing techniques*
 
-- 👯 I’m looking to collaborate on **Malware Reseach**
+- 👯 I’m looking to collaborate on **ReactJS, VueJS**
 
-- 💬 Ask me about **Jquery, Reactjs**
+- 💬 Ask me about **Jquery, Reactjs, VueJS, NextJS, NuxtJS**
 
 - 📫 How to reach me **lebaluong33@gmail.com**
 
