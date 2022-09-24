@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Jquery, Reactjs, VueJS, NextJS, NuxtJS**
 
-- 📫 How to reach me **lebaluong33@gmail.com**
+- 📫 How to reach me **lebaluong33@gmail.com, https://www.linkedin.com/in/lebaluong33/**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
