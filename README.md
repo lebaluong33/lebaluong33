@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Jquery, Reactjs, NextJS, VueJS, NuxtJS, Nodejs**
 
-- 🌱 I’m currently learning **Malware classification base on hashing techniques*
+- 🌱 I’m currently learning **In-dept Front-end technique in ReactJS and VueJS*
 
 - 👯 I’m looking to collaborate on **ReactJS, VueJS**
 
